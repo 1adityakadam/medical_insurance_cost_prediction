@@ -1,18 +1,25 @@
-# medical_insurance_cost_prediction_advance_ml
-
-## ** Summary**
-
-This project demonstrates a full, industry-quality ML workflow for predicting medical insurance charges. It leverages advanced tree-based models, stacking, log-transform techniques, and SHAP interpretability to build a robust predictive system. The final CatBoost model achieves strong accuracy and provides transparent insights into the drivers of healthcare costs.
-
-<img width="465" height="397" alt="image" src="https://github.com/user-attachments/assets/ea41d15a-03f5-42cc-8ef8-4075a6c22173" />
-
----
 
 # **Medical Insurance Cost Prediction (Advanced ML Pipeline)**
 
 Predicting healthcare insurance charges using advanced machine learning techniques.
 
 This project builds a complete ML pipeline to model medical insurance costs based on demographic and lifestyle features. The workflow includes exploratory data analysis (EDA), preprocessing, multiple regression models, hyperparameter tuning, ensemble stacking, log-transform modeling, SHAP interpretability, and full residual diagnostics.
+
+<img width="370" height="290" alt="image" src="https://github.com/user-attachments/assets/0766b9ee-5459-4d1a-90a9-f37058b5adbf" />
+<img width="2989" height="989" alt="image" src="https://github.com/user-attachments/assets/e91697ce-237c-45bc-a9ce-f514bc82a390" />
+
+<img width="355" height="226" alt="image" src="https://github.com/user-attachments/assets/b075ddb3-735f-4dc2-a28d-63e56407e421" />
+<img width="350" height="224" alt="image" src="https://github.com/user-attachments/assets/6193af8c-256f-434a-b717-4c959f6df54f" />
+
+
+
+<img width="468" height="400" alt="image" src="https://github.com/user-attachments/assets/a8ff325c-5f80-4e7b-932b-3efc19e1a709" />
+
+<img width="468" height="400" alt="image" src="https://github.com/user-attachments/assets/ddff31e0-ba1a-4b23-9739-4bd50a8de659" />
+<img width="405" height="255" alt="image" src="https://github.com/user-attachments/assets/5ccdebcf-bd43-45e2-a67c-25fb5b18852d" />
+<img width="405" height="255" alt="image" src="https://github.com/user-attachments/assets/1b363054-a8e8-434e-b8e1-c6f86cd1f49d" />
+<img width="409" height="270" alt="image" src="https://github.com/user-attachments/assets/5cb63fb8-2d82-4803-8265-9fdd16ea239c" />
+<img width="447" height="270" alt="image" src="https://github.com/user-attachments/assets/7c12ef79-5761-4c24-828b-0f47b0d73afd" />
 
 ---
 
