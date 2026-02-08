@@ -1,5 +1,5 @@
 
-# Medical Insurance Cost Prediction (Advanced ML Pipeline)
+# Medical Insurance Cost Prediction 
 
 Predicting healthcare insurance charges using advanced machine learning techniques.
 
