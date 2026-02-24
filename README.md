@@ -290,7 +290,11 @@ The model's underprediction of extreme high-cost cases is not a technical failur
 
 If you're working on health economics modeling, insurance analytics, or any domain where interpretability and business impact need to coexist - I'd welcome the conversation.
 
-Feedback on methodology, business framing, or model choices is genuinely valuable to me. Connect on [LinkedIn](#) or open an issue on this repo.
+Feedback on methodology, business framing, or model choices is genuinely valuable to me.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/1adityakadam)
+- 📁 [More Projects](https://www.github.com/1adityakadam)
+- 📧 [Email](mailto:askadam@iu.edu)
 
 ---
 
